@@ -9,7 +9,11 @@ for i in range(bill_szam):
     print(f"\tPontszámok összege: {osszeg}")
     current_list.append(osszeg)
     bill_list.append(current_list)
-atlag = 0
-for b in bill_list:
-    atlag += b[-1]
-print(f"Pontozott eszközök minőségi átlaga: {atlag/len(bill_list):.2f}")
+
+def atlag():
+    atlag = 0
+    for b in bill_list:
+        atlag += b[-1]
+    return int(f"{atlag/len(bill_list):.2f}")
+
+print(f"Pontozott eszközök minőségi átlaga: {atlag()}")
