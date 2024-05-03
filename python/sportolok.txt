@@ -1,0 +1,30 @@
+Gyúrós Barnabás;1990;testépítés;3
+Furkó Krisztina;1989;távolugrás;2
+Dankó Lajos;1982;futás;2
+Elek Béla;1952;testépítés;2
+Turbék Ádám;1970;testépítés;4
+József Attila;1980;testépítés;5
+Arany Péter;1968;futás;1
+Magyar Péter;1988;magasugrás;1
+Yao Chang;1956;távolugrás;1
+Reed Johnson;1999;futás;4
+Will Smith;1987;úszás;3
+Michael Arse;1954;magasugrás;2
+William Chan;1999;magasugrás;2
+Don Matteo;1989;magasugrás;1
+Amu Okada;1988;távolugrás;5
+Henry White;1967;távolugrás;3
+George;1952;gerelyhajítás;3
+Anita;1960;gerelyhajítás;3
+Clare,1970;futás;2
+Fiona;1996;úszás;2
+Violet;1993;távolugrás;1
+Doug;1992;távolugrás;5
+Alan;1991;úszás;5
+Chad;1981;futás;3
+Laura;1971;futás;3
+Paul;1972;gerelyhajítás;5
+John;1973;gerelyhajítás;2
+Jill;1984;úszás;2
+Sun Ying;1955;testépítés;1
+Nigel Leverton;1950;úszás;4
