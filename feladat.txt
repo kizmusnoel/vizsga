@@ -1,0 +1,12 @@
+Kések A-tól Z-ig
+A következő feladatban egy weboldalt kell készítenie a kések varázsáról, történelméről és eseményeiről a feladatleírás és a minta szerint. Ahol a feladat másként nem kéri, a formázási beállításokat a style.css stílusállományban végezze el úgy, hogy az új szelektorokat az állomány végén helyezze el! A szükséges kép és forrásállományokat az images könyvtárban találja. Nagyobb felbontású, színes mintát a kész weboldalról a minta.jpg állományban talál, melyet tilos a megoldásában felhasználni! 
+Az elkészült oldalt HTML-validáló eszközzel ellenőrizni kell és meg kell bizonyosodni annak helyességéről!
+Nyissa meg a kesek.html és a style.css állományokat és szerkessze azok tartalmát az alábbiak szerint:
+1.	A weboldal karakterkódolása utf-8, a weboldal nyelve magyar legyen!
+2.	A böngésző címsorában megjelenő cím „A kések” legyen! 
+3.	A weboldal fejrészében helyezzen el hivatkozást a style.css, valamint a bootstrap.min.css stíluslapokra!
+4.	A weboldalon írja meg a címet! A legelső contanier osztályjelölővel ellátott keret alá illessze be a  h1 címsorszintű [Kések A-tól Z-ig] szöveget. Lássa el egyes szintű előtte lévő belső margóval, illetve alatta és felette lévő hármas szintű belső margóval.
+
+
+
+

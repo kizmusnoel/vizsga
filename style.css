@@ -1,0 +1,21 @@
+body{
+    background-color: #7c9b8d38;
+    font-family: 'Roboto', sans-serif;
+}
+
+#fajtai .card {
+    border-radius: 0;
+    border-top-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+}
+
+#fajtai .card img {
+    max-width: 150px;
+}
+
+h1{
+    letter-spacing: 15px;
+    text-align: center;
+    text-decoration: underline;
+}
+
