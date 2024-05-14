@@ -14,17 +14,17 @@ William Chan;1999;magasugrás;2
 Don Matteo;1989;magasugrás;1
 Amu Okada;1988;távolugrás;5
 Henry White;1967;távolugrás;3
-George;1952;gerelyhajítás;3
-Anita;1960;gerelyhajítás;3
-Clare,1970;futás;2
-Fiona;1996;úszás;2
-Violet;1993;távolugrás;1
-Doug;1992;távolugrás;5
-Alan;1991;úszás;5
-Chad;1981;futás;3
-Laura;1971;futás;3
-Paul;1972;gerelyhajítás;5
-John;1973;gerelyhajítás;2
-Jill;1984;úszás;2
+George Norman;1952;gerelyhajítás;3
+Anita Whie;1960;gerelyhajítás;3
+Clare Bug;1970;futás;2
+Fiona Cass;1996;úszás;2
+Violet Wolf;1993;távolugrás;1
+Doug Myers;1992;távolugrás;5
+Alan Frick;1991;úszás;5
+Chad Smith;1981;futás;3
+Laura Black;1971;futás;3
+Paul Gilbert;1972;gerelyhajítás;5
+John Mills;1973;gerelyhajítás;2
+Jill Martin;1984;úszás;2
 Sun Ying;1955;testépítés;1
 Nigel Leverton;1950;úszás;4
