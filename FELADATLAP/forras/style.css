@@ -1,0 +1,10 @@
+#fajtai .card {
+    border-radius: 0;
+    border-top-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+}
+
+#fajtai .card img {
+    max-width: 150px;
+}
+
